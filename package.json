@@ -1,0 +1,21 @@
+{
+  "name": "awsconnectewt",
+  "version": "1.0.1",
+  "description": "AWS CONNECT EWT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EWT"
+  ],
+  "author": "Yuezhong",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.610.0",
+    "moment": "^2.24.0",
+    "moment-round": "^1.0.1",
+    "uuid": "^3.4.0"
+  }
+}

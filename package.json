@@ -13,7 +13,7 @@
   "author": "Yuezhong",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.610.0",
+    "aws-sdk": "^2.814.0",
     "moment": "^2.24.0",
     "moment-round": "^1.0.1",
     "uuid": "^3.4.0"
